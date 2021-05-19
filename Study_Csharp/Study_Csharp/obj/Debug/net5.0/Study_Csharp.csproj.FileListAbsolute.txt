@@ -1,0 +1,12 @@
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/bin/Debug/net5.0/Study_Csharp.deps.json
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/bin/Debug/net5.0/Study_Csharp.dll
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/bin/Debug/net5.0/ref/Study_Csharp.dll
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/bin/Debug/net5.0/Study_Csharp.pdb
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/obj/Debug/net5.0/Study_Csharp.csprojAssemblyReference.cache
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/obj/Debug/net5.0/Study_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/obj/Debug/net5.0/Study_Csharp.AssemblyInfoInputs.cache
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/obj/Debug/net5.0/Study_Csharp.AssemblyInfo.cs
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/obj/Debug/net5.0/Study_Csharp.csproj.CoreCompileInputs.cache
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/obj/Debug/net5.0/Study_Csharp.dll
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/obj/Debug/net5.0/ref/Study_Csharp.dll
+/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/obj/Debug/net5.0/Study_Csharp.pdb
