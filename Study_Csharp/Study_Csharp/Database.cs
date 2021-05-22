@@ -41,7 +41,7 @@ namespace Study_Csharp
 
         public void Run3()
         {
-            FileInfo fileInfo = new FileInfo(_currentDirectory + @"\data\log.txt");
+        FileInfo fileInfo = new FileInfo(_currentDirectory + @"\data\log.txt");
             
             Console.WriteLine("저장경로 : {0}", fileInfo.DirectoryName);
             Console.WriteLine("파일명 : {0}", fileInfo.Name);
