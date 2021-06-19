@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/Study_Csharp.csproj",
+      "projectUniqueName": "/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp.csproj",
       "projectName": "Study_Csharp",
-      "projectPath": "/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/Study_Csharp.csproj",
+      "projectPath": "/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp.csproj",
       "packagesPath": "/Users/sejin/.nuget/packages/",
-      "outputPath": "/Users/sejin/Desktop/Study/C#/Study_Csharp/Study_Csharp/obj/",
+      "outputPath": "/Users/sejin/Desktop/Study/C#/Study_Csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sejin/.nuget/NuGet/NuGet.Config"
